@@ -1,0 +1,7 @@
+organization=karthikeyan1198
+projectKey=Karthikeyan1198_repousernew
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=Karthikeyan1198_repousernew
+ceTaskId=AXKn3b3glLaLEx4twkO2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKn3b3glLaLEx4twkO2
